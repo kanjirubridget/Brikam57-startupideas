@@ -1,0 +1,29 @@
+body{
+    background-color: #EF2F88;
+}
+.form{
+    background-color: #FF7F3F;
+    width: 400px;
+    height: 400px;
+    margin-left: 30%;
+}
+.name{
+    margin-left:18% ;
+}
+.Date{
+    margin-left: 6%;
+}
+.email{
+    margin-left:18% ;
+}
+.country{
+    margin-left: 14%;
+}
+.password{
+    margin-left: 12%;
+}
+button{
+    margin-left: 30%;
+    width: 100px;
+    height: 60px;
+}

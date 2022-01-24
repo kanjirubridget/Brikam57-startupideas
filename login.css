@@ -1,0 +1,18 @@
+body{
+    background-color: #EF2F88;
+}
+.form{
+    background: #FF7F3F;
+    height: 200px;
+    width: 400px;
+    margin-left: 30%;
+
+}
+.email{
+    margin-left: 5%;
+}
+button{
+    margin-left:30% ;
+    width: 100px;
+    height:60px ;
+}

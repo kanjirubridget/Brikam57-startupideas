@@ -1,0 +1,18 @@
+body{
+    background-color: #FFA1C9;
+}
+h1{
+    padding-left: 30%;
+}
+.btns{
+    padding-left: 40%;
+    
+}
+.btn{
+    width: 70px;
+    height: 30px;
+}
+.btn:hover{
+    background-color: red;
+    cursor: pointer;
+}
